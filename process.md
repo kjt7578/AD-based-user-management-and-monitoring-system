@@ -1,7 +1,7 @@
 ## Day 2
 ### Summarize
-User List and LDAP connect
-Activity tracking (User log history, process watch, file watch) 
+- User List and LDAP connect
+- Activity tracking (User log history, process watch, file watch) 
 
 ### Scripts Overview
 - **userSearch.ps1**
