@@ -13,7 +13,7 @@
   - Detected that the file monitoring functionality was working, indicating the issue was likely related to console output.
   - Changed `Write-Output` to `Write-Host`, which resolved the issue, and the logs are now correctly displayed in the console.
 
-## Why LDAP Authentication?
+### Why LDAP Authentication?
 - **Purpose of LDAP**: LDAP (Lightweight Directory Access Protocol) is the standard protocol for accessing and managing directory services such as Active Directory (AD).
 - **Authentication Importance**: 
   - Active Directory is designed to ensure that only authenticated users have access to the system.
